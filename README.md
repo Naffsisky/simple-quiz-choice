@@ -11,7 +11,7 @@ To run and use this repo, here are the steps you can do.
 1. Clone repo ini pada komputer anda
 
 ```sh
-git clone
+git clone https://github.com/Masagis/simple-quiz-choice
 ```
 
 2. Install dependencies

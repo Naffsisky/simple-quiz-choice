@@ -18,7 +18,7 @@ function SummaryQuiz({ location }) {
 				style={{ flexDirection: 'row', marginBottom: 10 }}
 			>
 				Anda Berhasil Menjawab Benar:{' '}
-				<div className='text-success'>{location.state.score.correct}</div> -{' '}
+				<div className='text-success'>{location.state.score.correct}</div>{' '}
 			</h1>
 			{location.state.quiz.map((item, index) => (
 				<div className='card mb-3' key={index}>
